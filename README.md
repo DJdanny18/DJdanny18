@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182038,100:2c56e8&height=200&section=header&text=Danny%20Fernando%20Jurado%20Yepez&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20%7C%20Uniremington&descAlignY=62&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d94f2b,100:f2763d&height=200&section=header&text=Danny%20Fernando%20Jurado%20Yepez&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20%7C%20Uniremington&descAlignY=62&descSize=18" width="100%">
 
 </div>
 
