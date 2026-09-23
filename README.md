@@ -1,8 +1,37 @@
-<div align="center">
+<svg width="700" height="210" viewBox="0 0 700 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .line { stroke: #30363d; stroke-width: 1; }
+      .txt { font-family: 'Courier New', Consolas, monospace; fill: #e6edf3; }
+      .name { font-family: 'Courier New', Consolas, monospace; fill: #58a6ff; font-weight: bold; }
+      .tagtxt { font-family: 'Courier New', Consolas, monospace; fill: #7ee787; }
+      .bracket { font-family: 'Courier New', Consolas, monospace; fill: #8b949e; }
+    </style>
+  </defs>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182038,100:2c56e8&height=200&section=header&text=Danny%20Fernando%20Jurado%20Yepez&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20%7C%20Uniremington&descAlignY=62&descSize=18" width="100%">
+  <rect class="bg" width="700" height="210" rx="8"/>
+  <rect x="0.5" y="0.5" width="699" height="209" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
 
-</div>
+  <!-- right side vertical bars, decorativos -->
+  <line class="line" x1="680" y1="24" x2="680" y2="46"/>
+  <line class="line" x1="680" y1="60" x2="680" y2="82"/>
+  <line class="line" x1="680" y1="96" x2="680" y2="118"/>
+  <line class="line" x1="680" y1="150" x2="680" y2="172"/>
+
+  <!-- texto -->
+  <text x="24" y="42" class="name" font-size="20">Danny Fernando Jurado Yepez</text>
+  <text x="24" y="78" class="txt" font-size="16">Estudiante de Ingeniería de Sistemas · Uniremington</text>
+  <text x="24" y="112" class="txt" font-size="16">Desarrollo Web &amp; Ciberseguridad</text>
+
+  <!-- tecnologías -->
+  <text x="24" y="168" font-size="16">
+    <tspan class="bracket">[ </tspan><tspan class="tagtxt">Python</tspan><tspan class="bracket"> ]  [ </tspan><tspan class="tagtxt">HTML</tspan><tspan class="bracket"> ]  [ </tspan><tspan class="tagtxt">CSS</tspan><tspan class="bracket"> ]  [ </tspan><tspan class="tagtxt">Java</tspan><tspan class="bracket"> ]</tspan>
+  </text>
+  <text x="24" y="192" font-size="16">
+    <tspan class="bracket">[ </tspan><tspan class="tagtxt">JavaScript</tspan><tspan class="bracket"> ]  [ </tspan><tspan class="tagtxt">Git</tspan><tspan class="bracket"> ]  [ </tspan><tspan class="tagtxt">GitHub</tspan><tspan class="bracket"> ]  [ </tspan><tspan class="tagtxt">MySQL</tspan><tspan class="bracket"> ]</tspan>
+  </text>
+</svg>
 
 ## 👨‍💻 Sobre mí
 
