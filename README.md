@@ -33,6 +33,13 @@ Actualmente curso el **sexto semestre de Ingeniería de Sistemas**. Me gusta apr
 - 🔐 Aprendizaje de ciberseguridad
 - 🏗️ Arquitectura de software
 
+## 🧠 Habilidades
+
+* 🐍 **Python**
+* 🗄️ **MySQL**
+* 🌐 **HTML**
+
+
 ## 📂 Proyectos
 
 ### 🐾 Sistema de gestión veterinaria
